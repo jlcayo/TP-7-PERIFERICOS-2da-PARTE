@@ -13,4 +13,6 @@ Sistema de control de entradas (pulsadores) y salidas (LEDs) con **Arduino** y u
 - **Software**:
   - Arduino IDE (para cargar el código en la placa).
   - Processing (para ejecutar la interfaz gráfica).
-[TP7 PERIFERICOS 2°.pdf](https://github.com/user-attachments/files/23868894/TP7.PERIFERICOS.2.pdf)
+## Esquematico
+<img width="1031" height="448" alt="image" src="https://github.com/user-attachments/assets/02d85131-b7a3-4829-9f0f-4eda4edb05ad" />
+
